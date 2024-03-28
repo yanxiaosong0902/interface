@@ -1,0 +1,8 @@
+{
+  "name": "interface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yanxiaosong0902/interface.git",
+  "author": "yanxiaosong0902 <xiaosongkeith@163.com>",
+  "license": "MIT"
+}
